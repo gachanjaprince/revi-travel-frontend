@@ -8,8 +8,8 @@
 </div>
 <h2>How it's made:</h2>
   <div align="center">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=%23E34F26.svg" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=%23E34F26.svg" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white.svg" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
   </div>
 
   
