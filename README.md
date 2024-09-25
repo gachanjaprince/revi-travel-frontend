@@ -22,16 +22,16 @@
   <h2>Install</h2>
   <code>npm install</code>
   <ul>
-    <li><strong>axios</strong>strong>:</li>
-    <li><strong>cloudinary</strong>strong>:</li>
-    <li><strong>dotenv</strong>strong>:</li>
-    <li><strong>react</strong>strong>:</li>
-    <li><strong>react-dom</strong>strong>:</li>
-    <li><strong>react-icons</strong>strong>:</li>
-    <li><strong>react-responsive-carousel</strong>strong>:</li>
-    <li><strong>react-router-dom</strong>strong>:</li>
-    <li><strong>react-spinners</strong>strong>:</li>
-    <li><strong>react-toastify</strong>strong>:</li>
+    <li><strong>axios</strong>:</li>
+    <li><strong>cloudinary</strong>:</li>
+    <li><strong>dotenv</strong>:</li>
+    <li><strong>react</strong>:</li>
+    <li><strong>react-dom</strong>:</li>
+    <li><strong>react-icons</strong>:</li>
+    <li><strong>react-responsive-carousel</strong>:</li>
+    <li><strong>react-router-dom</strong>:</li>
+    <li><strong>react-spinners</strong>:</li>
+    <li><strong>react-toastify</strong>:</li>
   </ul>
 </div>
   
