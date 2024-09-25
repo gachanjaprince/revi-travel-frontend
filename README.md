@@ -22,15 +22,15 @@
   <h2>Install</h2>
   <code>npm install</code>
   <ul>
-    <li><strong>axios</strong>:</li>
-    <li><strong>cloudinary</strong>:</li>
-    <li><strong>react</strong>:</li>
-    <li><strong>react-dom</strong>:</li>
-    <li><strong>react-icons</strong>:</li>
-    <li><strong>react-responsive-carousel</strong>:</li>
-    <li><strong>react-router-dom</strong>:</li>
-    <li><strong>react-spinners</strong>:</li>
-    <li><strong>react-toastify</strong>:</li>
+    <li><strong>axios</strong>: Sending requests & interacting with the server.</li>
+    <li><strong>cloudinary</strong>: Image storage & hosting.</li>
+    <li><strong>react</strong>: Library for building user interfaces based on components.</li>
+    <li><strong>react-dom</strong>:  Entry point to the DOM and server renderers for React.</li>
+    <li><strong>react-icons</strong>: Include popular icons in your React projects easly with react-icons.</li>
+    <li><strong>react-responsive-carousel</strong>: Lightweight & customizable carousel component.</li>
+    <li><strong>react-router-dom</strong>: Route configuration and data loading.</li>
+    <li><strong>react-spinners</strong>: Collection of loading spinners for your React app.</li>
+    <li><strong>react-toastify</strong>: Allows you to add notifications to your app with ease.</li>
   </ul>
 </div>
 <div>
@@ -43,8 +43,8 @@
 </div>
 <div>
   <h2>Lessons Learned</h2>
-  <p><strong>Loader vs useEffect</strong> - Loaders allow data to be fetched before the component renders. This prevents rendering the component with an empty state, and then re-rendering once the data is fetched (an issue I faced when using useEffect). Simply put, loaders are useful when you want to declaratively fetch data before rendering a component, specifically when working with React Router, while useEffect would be employed when data fetching or side effects need to happen after the component is already rendered. </p>
-  <p><strong>Routing implementation within SPA</strong>  -  Used react-router-dom to manage different 'pages' & navigation between views</p>
+  <p><strong>Loader vs useEffect</strong> - Loaders allow data to be fetched before the component renders. This prevents rendering the component with an empty state, and then re-rendering once the data is fetched (an issue I faced when using useEffect). Simply put, loaders are useful when you want to declaratively fetch data before rendering a component, specifically when working with React Router, while useEffect would be employed when data fetching/side effects that occur happen after the component is already rendered. </p>
+  <p><strong>Routing implementation within SPA</strong> - Using react-router-dom to manage different 'pages' & navigation between views.</p>
 </div>
   
 
