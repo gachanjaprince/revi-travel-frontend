@@ -24,7 +24,6 @@
   <ul>
     <li><strong>axios</strong>:</li>
     <li><strong>cloudinary</strong>:</li>
-    <li><strong>dotenv</strong>:</li>
     <li><strong>react</strong>:</li>
     <li><strong>react-dom</strong>:</li>
     <li><strong>react-icons</strong>:</li>
@@ -33,6 +32,19 @@
     <li><strong>react-spinners</strong>:</li>
     <li><strong>react-toastify</strong>:</li>
   </ul>
+</div>
+<div>
+  <h2>Optimization</h2>
+  <ul>
+    <li>Implementation of commenting functionality to increase user engagement with posts.</li>
+    <li>Map Integration - Improves user experience by providing an interactive geographical perspective of the shared locations</li>
+    <li>Add the ability to save/favourite posts - using local storage or a database. Allows the app to offer a more personalized experience, encouraging users to return and explore their saved content easily.</li>
+  </ul>
+</div>
+<div>
+  <h2>Lessons Learned</h2>
+  <p><strong>Loader vs useEffect</strong> - Loaders allow data to be fetched before the component renders. This prevents rendering the component with an empty state, and then re-rendering once the data is fetched (an issue I faced when using useEffect). Simply put, loaders are useful when you want to declaratively fetch data before rendering a component, specifically when working with React Router, while useEffect would be employed when data fetching or side effects need to happen after the component is already rendered. </p>
+  <p><strong>Routing implementation within SPA</strong>  -  Used react-router-dom to manage different 'pages' & navigation between views</p>
 </div>
   
 
