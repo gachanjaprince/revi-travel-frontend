@@ -4,11 +4,12 @@
   <span font-size="1.55rem"><strong>Live Site:</strong></span><span> https://revi-reacts.netlify.app/</span>
 </div>
 <div align="center">&nbsp;
-   <img src="https://github.com/user-attachments/assets/8d27edc1-2a4f-4503-8c6b-9bf58202e9ce" alt="A gif capturing the screen as the user searches for 'Beef' on the website, before scrolling down, exploring the page." width="72.5%"/>
+   <img src="https://github.com/user-attachments/assets/8d27edc1-2a4f-4503-8c6b-9bf58202e9ce" alt="A gif capturing the screen as the user searches for 'Beef' on the website, before scrolling down, exploring the page." width="82.5%"/>
 </div>
 <h2>How it's made:</h2>
   <div align="center">
-    <img src="https://img.shields.io/badge/reactjs-838485?style=for-the-badge&logo=reactjs&logoColor=%23E34F26.svg" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=%23E34F26.svg" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=%23E34F26.svg" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
   </div>
 
   
