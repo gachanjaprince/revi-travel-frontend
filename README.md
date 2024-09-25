@@ -8,8 +8,11 @@
 </div>
 <h2>How it's made:</h2>
   <div align="center">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white.svg" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" "" alt="ReactJS Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="ReactJS Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=orange" alt="Vite Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt="Tailwind CSS Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/badge/cloudinary-3F5FFF?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary Logo" height="27.5"/>&nbsp;
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=022915&logo=Axios&logoColor=FFFFFF&label=" alt="Cloudinary Logo" height="27.5"/>&nbsp;
   </div>
 
   
