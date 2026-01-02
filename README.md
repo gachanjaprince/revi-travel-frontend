@@ -45,7 +45,7 @@
   </ul>
 </div>
 <div>
-  <h2>Lessons Learned</h2>
+  <h2>Lessons</h2>
   <p><strong>Loader vs useEffect</strong> - Loaders allow data to be fetched before the component renders. This prevents rendering the component with an empty state, and then re-rendering once the data is fetched (an issue I faced when using useEffect). Simply put, loaders are useful when you want to declaratively fetch data before rendering a component, specifically when working with React Router, while useEffect would be employed when data fetching/side effects that occur happen after the component is already rendered. </p>
   <p><strong>Routing implementation within SPA</strong> - Using react-router-dom to manage different 'pages' & navigation between views.</p>
 </div>
